@@ -1,0 +1,103 @@
+{
+    "shopsList": [
+        {
+            "id": 1,
+            "sale": "1000+",
+            "average": "￥17",
+            "startingDelivery": "￥13",
+            "deliveryData": "满18配送约￥0.5",
+            "time": "29分钟",
+            "distance": "1.2km",
+            "delivery": false,
+            "describeIntro": "刚刚有用户下单"
+        },
+        {
+            "id": 2,
+            "sale": "2000+",
+            "average": "￥15",
+            "startingDelivery": "￥10",
+            "deliveryData": "免配送费",
+            "time": "42分钟",
+            "distance": "3.1km",
+            "delivery": true,
+            "describeIntro": "好吃"
+        },
+        {
+            "id": 3,
+            "sale": "1000+",
+            "average": "￥17",
+            "startingDelivery": "￥15",
+            "deliveryData": "配送 约￥0.6",
+            "time": "38分钟",
+            "distance": "3.6km",
+            "delivery": true,
+            "describeIntro": "口味好评率100%"
+        },
+        {
+            "id": 4,
+            "sale": "700+",
+            "average": "￥20",
+            "startingDelivery": "￥30",
+            "deliveryData": "免配送费",
+            "time": "29分钟",
+            "distance": "1.7km",
+            "delivery": false,
+            "describeIntro": "刚刚有用户看过"
+        },
+        {
+            "id": 5,
+            "sale": "2000+",
+            "average": "￥22",
+            "startingDelivery": "￥20",
+            "deliveryData": "配送 约￥1.6",
+            "time": "35分钟",
+            "distance": "3.5km",
+            "delivery": false,
+            "describeIntro": "千人收藏的好店"
+        },
+        {
+            "id": 6,
+            "sale": "400+",
+            "average": "￥16",
+            "startingDelivery": "￥20",
+            "deliveryData": "免配送费",
+            "time": "29分钟",
+            "distance": "1.8km",
+            "delivery": false,
+            "describeIntro": "“吃着放心”"
+        },
+        {
+            "id": 7,
+            "sale": "400+",
+            "average": "￥22",
+            "startingDelivery": "￥20",
+            "deliveryData": "免配送费",
+            "time": "29分钟",
+            "distance": "2.3km",
+            "delivery": true,
+            "describeIntro": "“分量很足”"
+        },
+        {
+            "id": 8,
+            "sale": "200+",
+            "average": "￥32",
+            "startingDelivery": "￥30",
+            "deliveryData": "￥9.2",
+            "time": "60分钟",
+            "distance": "9.4km",
+            "delivery": false,
+            "describeIntro": "好喝"
+        },
+        {
+            "id": 9,
+            "sale": "1000+",
+            "average": "￥36",
+            "startingDelivery": "￥20",
+            "deliveryData": "￥4.5",
+            "time": "30分钟",
+            "distance": "2.0km",
+            "delivery": true,
+            "describeIntro": "“物超所值”"
+        }
+    ]
+}
